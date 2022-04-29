@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a224b111-cab0-4083-aa1e-5f12ec489209" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/elearning/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/elearning/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/DTO/CoursDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/DTO/CoursDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/DTO/EnseignantDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/DTO/EnseignantDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/DTO/RoleDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/DTO/UserDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/ElearningApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/ElearningApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/config/UserDetailsImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/config/UserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/config/UserDetailsServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/config/auth/mail/MailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/config/auth/mail/MailServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/config/auth/mail/VerificationTokenService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/config/auth/request/LoginRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/config/auth/request/SignupRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/config/auth/response/JwtResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/config/auth/response/MessageResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/config/auth/security/AuthEntryPointJwt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/config/auth/security/AuthTokenFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/config/auth/security/JwtUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/config/auth/security/WebSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/controllers/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/entities/Cours.java" beforeDir="false" afterPath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/entities/Cours.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/entities/ERole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/entities/Enseignant.java" beforeDir="false" afterPath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/entities/Enseignant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/entities/Etudiant.java" beforeDir="false" afterPath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/entities/Etudiant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/entities/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/entities/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/mapper/CoursMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/mapper/CoursMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/repository/CoursRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/repository/CoursRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/repository/EnseignantRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/repository/EnseignantRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/repository/EtudiantRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/repository/EtudiantRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/repository/RoleRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/java/com/bac/tn/elearning/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elearning/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/elearning/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/elearning" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="28TPRWKN8PMBsfjtMEiCZ0IvBlO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/pfe/Backend&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Runtime.Targets.Configurable&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Spring Boot.ElearningApplication">
+    <configuration name="EurekazullApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gotunis.eurekazull.EurekazullApplication" />
+      <module name="eurekazull" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gotunis.eurekazull.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElearningApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="elearning" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bac.tn.elearning.ElearningApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekazullApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eurekazull" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gotunis.eurekazull.EurekazullApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GestionUsersApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gestionUsers" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.MS1.gestionUsers.GestionUsersApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjectdiscoveryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="projectdiscovery" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.descovery.projectdiscovery.ProjectdiscoveryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EurekazullApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a224b111-cab0-4083-aa1e-5f12ec489209" name="Changes" comment="" />
+      <created>1651237594388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651237594388</updated>
+      <workItem from="1651237595681" duration="76000" />
+      <workItem from="1651237700781" duration="756000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.github.yoshikawaa.modelmapper.spring.boot:modelmapper-spring-boot-autoconfigure:0.1.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/github/yoshikawaa/modelmapper/spring/boot/modelmapper-spring-boot-autoconfigure/0.1.0/modelmapper-spring-boot-autoconfigure-0.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/github/yoshikawaa/modelmapper/spring/boot/modelmapper-spring-boot-autoconfigure/0.1.0/modelmapper-spring-boot-autoconfigure-0.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/github/yoshikawaa/modelmapper/spring/boot/modelmapper-spring-boot-autoconfigure/0.1.0/modelmapper-spring-boot-autoconfigure-0.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

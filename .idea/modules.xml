@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Backend.iml" filepath="$PROJECT_DIR$/.idea/Backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elearning/elearning.iml" filepath="$PROJECT_DIR$/elearning/elearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaZull/eurekazull.iml" filepath="$PROJECT_DIR$/eurekaZull/eurekazull.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gestionUsers/gestionUsers.iml" filepath="$PROJECT_DIR$/gestionUsers/gestionUsers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projectDiscovery/projectdiscovery.iml" filepath="$PROJECT_DIR$/projectDiscovery/projectdiscovery.iml" />
+    </modules>
+  </component>
+</project>

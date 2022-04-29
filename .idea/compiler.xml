@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="projectdiscovery" />
+        <module name="gestionUsers" />
+        <module name="eurekazull" />
+        <module name="elearning" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="elearning" target="1.8" />
+      <module name="eurekazull" target="1.8" />
+      <module name="gestionUsers" target="1.8" />
+      <module name="projectdiscovery" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="elearning" options="-parameters" />
+      <module name="eurekazull" options="-parameters" />
+      <module name="gestionUsers" options="-parameters" />
+      <module name="projectdiscovery" options="-parameters" />
+    </option>
+  </component>
+</project>
